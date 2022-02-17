@@ -1,0 +1,4 @@
+New folder
+desktop.ini
+list.txt
+ارشد
